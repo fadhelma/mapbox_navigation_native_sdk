@@ -67,10 +67,13 @@ flutter {
 dependencies {
     implementation 'androidx.core:core-ktx:1.10.1'
     implementation 'androidx.appcompat:appcompat:1.6.1'
-    
+
+    // Kotlin stdlib (keep in sync with your root)
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:1.9.24"
+
     // Try with a different version approach
     implementation 'com.mapbox.navigation:android:2.15.2'
-    implementation 'com.mapbox.navigation:ui-dropin:2.15.2'
+    implementation "com.mapbox.navigation:ui-dropin:3.11.1"
     implementation 'androidx.fragment:fragment-ktx:1.6.1'
     implementation 'androidx.localbroadcastmanager:localbroadcastmanager:1.1.0'
 }

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mapbox Navigation SDK</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiZGlnaXRhbGFzc2V0cyIsImEiOiJjbGU1Y3kzbnEwOG1kM29zNGtlcG53MWU1In0.BwMPdqNrUlDTfuQ7krvk-g</string>
+</resources>
